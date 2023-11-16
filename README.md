@@ -1,2 +1,1 @@
-# Stust_python_2023
- 
+# STUST_2023
