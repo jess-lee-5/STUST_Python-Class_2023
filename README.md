@@ -1,1 +1,1 @@
-# STUST_2023
+# STUST_Python-Class_2023
